@@ -1,4 +1,4 @@
-artifact_name   := <service>
+artifact_name   := chs-appointments-api-deps
 
 local           := ./local
 
