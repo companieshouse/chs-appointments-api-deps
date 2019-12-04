@@ -1,22 +1,10 @@
-appconfig.local.yml.setup
-concordion/.idea
-concordion/*.iml
-concordion/lib/*
-concordion/*.log
-concordion/*.log.????-??-??
-concordion/result/*
-concordion/target/*
-.cpanm/
-.DS_Store
-extlib/
+# Build artifacts
+build-*
+*.zip
 .gopancache
-hypnotoad.pid
-local/
-*.local.yml
-log
-*.log
-npm-debug.log
-*.swp
-*.tmp
-t/output.xml
-ch.gov.uk-*.zip
+local
+
+# Mac files
+.DS_Store
+._*
+
