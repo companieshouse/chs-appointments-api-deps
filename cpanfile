@@ -16,7 +16,7 @@ requires 'CH::MojoX::Plugin::Exception', '==0.31';
 requires 'Mojolicious::Plugin::MangoWrapper', '==0.32';
 requires 'CH::Perl', '==0.31';
 requires 'CH::Test', '==0.31';
-requires 'Devel::Declare', '==0.006022';
+requires 'Devel::Declare', '==0.006019';
 requires 'JSON::XS', '==3.01';
 requires 'File::Slurp', '==9999.19';
 requires 'CH::Util', '==0.23';
