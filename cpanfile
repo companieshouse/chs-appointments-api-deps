@@ -14,6 +14,7 @@ requires 'CH::MojoX::Plugin::Exception', '==0.31';
 requires 'Mojolicious::Plugin::MangoWrapper', '==0.32';
 requires 'CH::Perl', '==0.31';
 requires 'CH::Test', '==0.31';
+requires 'IO::Socket::SSL', '>=1.981';
 requires 'Crypt::CBC', '==2.33';
 requires 'Devel::Declare', '==0.006019';
 requires 'JSON::XS', '==3.01';
