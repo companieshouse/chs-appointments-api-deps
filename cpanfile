@@ -9,6 +9,7 @@ requires 'Mango', '>=1.29, <2.00'; # Must be above CH::Util
 requires 'Authen::SCRAM', '<1.0';
 
 requires 'Crypt::CBC', '==2.33';
+requires 'Devel::Declare', '==0.006019';
 requires 'IO::Socket::SSL', '>=1.981';
 requires 'CH::MojoX::Error::Renderer', '==0.32';
 requires 'CH::MojoX::Plugin::Config', '==0.31';
@@ -16,7 +17,6 @@ requires 'CH::MojoX::Plugin::Exception', '==0.31';
 requires 'Mojolicious::Plugin::MangoWrapper', '==0.32';
 requires 'CH::Perl', '==0.31';
 requires 'CH::Test', '==0.31';
-requires 'Devel::Declare', '==0.006022';
 requires 'JSON::XS', '==3.01';
 requires 'File::Slurp', '==9999.19';
 requires 'CH::Util', '==0.23';
